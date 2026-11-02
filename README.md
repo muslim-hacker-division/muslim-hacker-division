@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam/animated-fluent-emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="35" /> Salam, Visitor!
+### 👋 Assalamu'alaikum, selamat datang!
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=MUSLIM+HACKER+DIVISION;Spiritualitaas+%26+Cyber+Security;MHD+Qur'an+Digital+%26+Automation" alt="Typing SVG" />
