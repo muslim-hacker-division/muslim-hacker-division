@@ -20,7 +20,7 @@
 ### 🚀 Proyek Unggulan
 
 <p align="center">
-  <img src="https://iili.io/FDhzvM7.png" width="180" alt="Logo MHD" />
+  <img src="https://freeimage.host/i/nP8pCMb" width="180" alt="Logo MHD" />
 </p>
 
 - [🤖 MHD Warrior Bot](https://t.me/MHDWarrior_bot) - Bot Telegram otomatis penyebar ayat Al-Qur'an 24/7.
