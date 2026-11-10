@@ -29,13 +29,6 @@
 
 ---
 
-### 📊 Statistik GitHub Saya
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muslim-hacker-division&show_icons=true&theme=radical&hide_border=true&bg_color=0a0c10&text_color=f0f6fc&icon_color=00ff66" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📫 Hubungi Saya
 <p align="center">
   <a href="https://facebook.com/RuntimeIman" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
