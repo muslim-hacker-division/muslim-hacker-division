@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Proyek Unggulan
+### 🚀 Proyek Unggulan ku
 
 <p align="center">
   <img src="https://iili.io/nP8pCMb.md.png" width="180" alt="Logo MHD" />
